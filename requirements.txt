@@ -16,4 +16,5 @@ Flask
 Flask-Cors
 box
 ensure
+keras
 -e .

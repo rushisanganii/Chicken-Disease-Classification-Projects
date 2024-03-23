@@ -4,6 +4,7 @@ from zipfile import ZipFile
 import tensorflow as tf
 import time
 from cnnClassifier.entity.config_entity import PrepareCallbacksConfig
+from keras.callbacks import TensorBoard
 
 
 class PrepareCallback:
